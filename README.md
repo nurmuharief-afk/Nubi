@@ -10,7 +10,7 @@ Bot Discord sederhana untuk game Soul Land News World, dibuat dengan Python meng
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
 2. Buat bot di [Discord Developer Portal](https://discord.com/developers/applications).
-3. Salin token bot dan set sebagai environment variable: `DISCORD_BOT_TOKEN=your_token_here`
+3. Salin token bot dan set sebagai environment variable: `DISCORD_BOT_TOKEN=MTQ5NjQzNzkxNDUxNzYzNTIxMw.G54d8r.FNo5wZC4dhg5cbrBBAq2JjRu7qk4_Udd5i3_R8`
 4. Jalankan: `python bot.py`
 
 ## Aturan Discord
